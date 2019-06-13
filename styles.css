@@ -1,0 +1,29 @@
+#coordinates {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#coordinates-container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.container {
+  margin: 5rem 20rem;
+  padding: 1rem;
+  border: 3px solid grey;
+  position: relative;
+}
+
+#tool-tip {
+  display: none;
+  position: absolute;
+  background-color: antiquewhite;
+  /* overflow-y: scroll; */
+  padding: 10px;
+}
+
+.has-tooltip {
+  background-color: #342f2f;
+  color: white;
+}
